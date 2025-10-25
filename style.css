@@ -166,7 +166,6 @@ section.topo-do-site .flex{
 
 .img-topo-site img {
     max-width: 1000px; /* define largura máxima */
-    width: 100%; /* garante responsividade */
     height: auto; /* mantém proporção da imagem */
     display: block; /* remove espaço extra abaixo da imagem */
     margin: 0 auto; /* centraliza a imagem */
